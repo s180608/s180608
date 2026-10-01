@@ -1,62 +1,109 @@
-<h1 align="center">Hi 👋, I'm Vara Chaitanya Chadalavada</h1>
-<h3 align="center">
-MSc Applied Artificial Intelligence Student | AI & ML Enthusiast | Frontend & Robotics Developer
-</h3>
+# Hi, I’m Vara Chaitanya Chadalavada
+
+### Software Engineer | Frontend Development · Backend Systems · Applied AI
+
+I build web applications and applied AI projects that address practical problems—from booking local services to exploring healthcare image classification and patient routing.
+
+My background includes frontend development at **APCFSS** and an **MSc in Applied Artificial Intelligence & Robotics** from the **University of Greenwich**. I’m currently freelancing and looking for software engineering opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/varachaitanya-chadalavada/) · [GitHub](https://github.com/s180608) · [Email](mailto:varachadalavada.developer@gmail.com)
 
 ---
 
-🎓 **Master’s Student in Applied Artificial Intelligence**  
-University of Greenwich, London, UK  
+## Professional Experience
 
-🤖 Passionate about building **intelligent systems**, combining  
-**Machine Learning, Computer Vision, Robotics, and Frontend Development**
+### Freelance Software Engineer
+**Independent | Present**
 
----
+Working on software projects across frontend development, backend services, and applied AI. Open to engineering roles and freelance opportunities.
 
-### 🔍 About Me
+### Frontend Developer — APCFSS
+**September 2023 – December 2024**
 
-- 🌱 Currently learning and working on **Machine Learning, Deep Learning, Computer Vision, and Full-Stack Development**
-- 🧠 Strong interest in **AI for Healthcare, Robotics, and Human-Centred Systems**
-- 🤖 Built a **robotic hand / robotic arm system** with motor control, sensors, VHDL, and camera-based vision
-- 🩺 Developed an **AI-based Cataract Detection System** using image processing and supervised ML models
-- 🌐 Experienced in building **web interfaces** to deploy AI models
-- 👨‍💻 All projects available at:  
-  👉 https://vara-chaitanya-chadalavada.onrender.com/
+Worked on the user-facing side of web applications. This experience shaped my interest in clear interfaces, usable software, and the systems supporting them.
 
 ---
 
-### 💬 Ask Me About
+## Featured Projects
 
-**Artificial Intelligence • Machine Learning • Computer Vision • Robotics**  
-**Python • HTML • CSS • JavaScript • React • Git**
+### Fixly — UK Service Booking Platform
+
+A full-stack project that brings local service discovery and booking into one application.
+
+- Focuses on a practical journey from finding a service to making a booking.
+- Combines frontend interfaces with backend application logic.
+- Project test result: **21/21 tests passing**.
+
+**[Open live demo →](https://fixly-frontend-2ivk.onrender.com)**
+
+### Early Cataract Detection AI
+
+An applied machine learning project exploring cataract detection through eye-image classification.
+
+- Uses image processing and supervised machine learning.
+- Includes a Streamlit interface for interacting with the model.
+- Reported model accuracy: **86.4%**; results depend on the evaluation dataset and method.
+- A research demonstration, not a clinical diagnostic tool.
+
+**[Try the application →](https://cataract-detection-ai.streamlit.app)**
+
+### NHS Smart Triage & Queue Router
+
+A portfolio prototype exploring how symptom intake, service routing, and live queue information could help reduce avoidable waiting.
+
+- Collects symptoms through a guided intake process.
+- Explores AI-assisted urgency assessment and routing to appropriate services.
+- Provides real-time queue updates and estimated waiting times.
+- Built with **React, Node.js, Express, Socket.io, PostgreSQL, Redis, and Docker**.
+
+The project explores a potential approach; it does not claim proven waiting-time reductions and is not an NHS-endorsed or clinically validated service.
+
+**[Explore the repository →](https://github.com/s180608/nhs-triage-router)**
+
+### Robotics — Hand / Arm System
+
+A robotics project combining physical control with visual input.
+
+- Worked with motor control, sensors, and VHDL.
+- Incorporated camera-based vision.
+- Explored how hardware, control logic, and perception work together.
+
+**[Browse my repositories →](https://github.com/s180608?tab=repositories)**
 
 ---
 
-### 📫 How to Reach Me
+## Technical Focus
 
-📧 **Email:** varachaitanya2002@gmail.com  
-🔗 **LinkedIn:**  
-<a href="https://linkedin.com/in/vara-chaitanya-chadalavada" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+| Area | Skills & interests |
+|---|---|
+| Frontend | React, JavaScript, HTML, CSS, responsive interfaces |
+| Backend | Node.js, Express, REST APIs, SQL |
+| AI & Machine Learning | Python, supervised learning, image processing, computer vision |
+| Robotics | Motor control, sensors, VHDL, camera-based vision |
+| Development tools | Git, GitHub, Figma |
+| Currently developing | Deep learning, full-stack architecture, model evaluation |
 
 ---
 
-### ⚡ Fun Fact
+## Education
 
-I enjoy turning **complex AI concepts into practical, real-world solutions** 🚀
+### MSc Applied Artificial Intelligence & Robotics
+**University of Greenwich, UK | January 2025 – January 2026**
+
+Postgraduate study focused on applied artificial intelligence and robotics.
+
+### Bachelor of Technology
+**RGUKT | 2020 – 2024**
+
+Undergraduate engineering education.
+
+---
+
+## What I’m Looking For
+
+I’m interested in software engineering opportunities where I can contribute to frontend development, build reliable backend services, and apply AI to useful products.
+
+I’m particularly interested in teams working on accessible web applications, healthcare technology, and human-centred systems.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/varachaitanya-chadalavada/)**  
+**[Email me](mailto:varachadalavada.developer@gmail.com)**
